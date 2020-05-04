@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560886122 source:e:\parameter_extraction_1stprogram\main.c
+	<stdio.h>
+	<conio.h>
+
