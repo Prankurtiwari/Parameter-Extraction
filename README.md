@@ -1,5 +1,5 @@
 # Parameter-Extraction
-DRDO Internship project of SOFTWARE DEVELOPMENT FOR PARAMETER EXTRACTION OF GaN HEMT and GaAS MESFET
+DRDO Internship project of SOFTWARE DEVELOPMENT FOR PARAMETER EXTRACTION OF GaN HEMT and GaAs MESFET
 
 **Model description**
 
